@@ -10,6 +10,9 @@ package edu.wctc.example1;
  adequate? Were there too many methods in the Animal class to be able to
  understand quickly?
 
+
+
+
  Obviously in this simple example that is not the case, but in a real world
  project there is a good chance that these things will be true.
  */
